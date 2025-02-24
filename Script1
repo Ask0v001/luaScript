@@ -1,0 +1,4 @@
+Script :
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ask0v001/luaScript/refs/heads/main/midnight No Collision"))()
